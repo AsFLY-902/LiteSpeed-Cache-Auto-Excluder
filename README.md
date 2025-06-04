@@ -1,0 +1,1 @@
+# LiteSpeed-Cache-Auto-Excluder
