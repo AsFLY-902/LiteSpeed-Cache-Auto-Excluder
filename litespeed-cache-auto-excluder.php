@@ -49,6 +49,8 @@ function add_litespeed_cache_exclusions() {
 }
 
 add_action('admin_notices', 'show_litespeed_exclude_notice');
+
+// show admin notice
 function show_litespeed_exclude_notice() {
     if ($messages = get_option('lscache_exclude_notice')) {
         echo '<div class="notice notice-success is-dismissible">';
