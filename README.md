@@ -1,5 +1,5 @@
 # LiteSpeed Cache Auto Excluder
-A lightweight WordPress plugin to that automatically adds exclusions for query strings and cookies on activation.
+A lightweight WordPress plugin that automatically adds exclusions for query strings and cookies on activation.
 
 ## 🔧 What It Does
 
