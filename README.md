@@ -41,4 +41,4 @@ Added query string exclusion: wp_accessibility
 
 ## 🧼 Uninstallation
 
-This plugin does not remove the exclusions on deactivation or deletion, to avoid breaking behavior-dependent functionality.
+This plugin does not remove the exclusions on deactivation or deletion.
