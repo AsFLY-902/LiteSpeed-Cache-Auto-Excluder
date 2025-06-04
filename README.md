@@ -36,7 +36,7 @@ Upon activation, you'll see an admin notice:
 LiteSpeed Cache Auto Excluder:
 
 Added query string exclusion: accessibility
-Cookie wp_accessibility already exists.
+Added query string exclusion: wp_accessibility
 ```
 
 ## 🧼 Uninstallation
